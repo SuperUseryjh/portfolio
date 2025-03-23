@@ -1,42 +1,23 @@
 # Personal Information
 user:
-  name: "Luoshen"
-  title: "Software Engineer"
-  location: "San Jose, CA"
-  email: "luorivergoddess@gmail.com"
-  bio: "A passionate software engineer dedicated to crafting elegant solutions through code"
+  name: "Mr_Onion"
+  title: "Student"
+  location: "Shanghai China"
+  email: "yaoonion@gmail.com"
+  bio: "A student, OIer, Web Developer"
 
 # Social Media Links
 social:
-  github: "https://github.com/luorivergoddess"
-  linkedin: "https://linkedin.com/in/yourusername"
-  twitter: "https://twitter.com/luorivergoddess"
-  instagram: "https://instagram.com/yourusername"
+  github: "https://github.com/SuperUseryjh"
+  twitter: "https://twitter.com/MrOnion0408"
 
 # Featured Projects
 projects:
-  - title: "AI Chatbot Platform"
-    description: "An intelligent conversational AI platform built with Next.js and OpenAI API, featuring real-time responses and conversation history."
-    tags: ["Next.js", "OpenAI", "TypeScript", "Tailwind CSS"]
-    image: "/projects/chatbot.png"
-    github: "https://github.com/yourusername/ai-chatbot"
-    demo: "https://demo-url.com/chatbot"
-    featured: true
-
-  - title: "E-commerce Dashboard"
-    description: "A comprehensive dashboard for managing online store operations, featuring real-time analytics and inventory management."
-    tags: ["React", "Node.js", "MongoDB", "Docker"]
-    image: "/projects/dashboard.png"
-    github: "https://github.com/yourusername/ecommerce-dashboard"
-    demo: "https://demo-url.com/dashboard"
-    featured: true
-
-  - title: "Task Management System"
-    description: "A collaborative task management solution with real-time updates, drag-and-drop functionality, and team collaboration features."
-    tags: ["React", "Firebase", "Material-UI", "TypeScript"]
-    image: "/projects/taskmanager.png"
-    github: "https://github.com/yourusername/task-manager"
-    demo: "https://demo-url.com/tasks"
+  - title: "Blog"
+    description: "My Blog"
+    tags: ["Blog"]
+    github: "https://github.com/mr-onion-blog/hexo_tmp"
+    demo: "https://mr-onion-blog.fun"
     featured: true
 
 # Skills Configuration
@@ -44,15 +25,6 @@ skills:
   technical:
     - name: "JavaScript"
       icon: "javascript"
-      
-    - name: "TypeScript"
-      icon: "typescript"
-      
-    - name: "React"
-      icon: "react"
-      
-    - name: "Next.js"
-      icon: "nextdotjs"
       
     - name: "Python"
       icon: "python"
@@ -62,9 +34,6 @@ skills:
       
     - name: "Docker"
       icon: "docker"
-      
-    - name: "PostgreSQL"
-      icon: "postgresql"
       
     - name: "MongoDB"
       icon: "mongodb"
@@ -77,18 +46,6 @@ skills:
       
     - name: "GitHub"
       icon: "github"
-      
-    - name: "AWS"
-      icon: "amazonwebservices"
-      
-    - name: "Kubernetes"
-      icon: "kubernetes"
-      
-    - name: "TailwindCSS"
-      icon: "tailwindcss"
-      
-    - name: "GraphQL"
-      icon: "graphql"
 
   soft:
     - name: "Problem Solving"
@@ -178,4 +135,4 @@ site:
 # GitHub Snake Configuration
 githubSnake:
   enabled: true
-  username: "luorivergoddess"
+  username: "Mr_Onion"
